@@ -1,9 +1,5 @@
-- Démocratie : Forme de gouvernement dans laquelle la souveraineté appartient au peuple ; État ainsi gouverné.
-
 - Sénat : Assemblée législative élue au suffrage indirect ou dont les membres représentent des collectivités territoriales.
-
 - Détournement de fonds : Appropriation frauduleuse de biens par une personne pour son propre intérêt à qui l'on avait fait confiance pour gérer l'argent et les fonds détenus par un autre individu ou par une organisation tiers. 
-
-- Fascisme : Le fascisme est un système politique autoritaire qui associe populisme, nationalisme et totalitarisme au nom d'un idéal collectif suprême
-
-- Parlement : Un parlement est une assemblée — généralement élue — qui assure la représentation du peuple dans les États ou les divisions administratives, et à ce titre est le « destin de la démocratie » selon Hans Kelsen
+- Démocratie : Forme de gouvernement dans laquelle la souveraineté appartient au peuple ; État ainsi gouverné.
+- Fascisme : Le fascisme est un système politique autoritaire qui associe populisme, nationalisme et totalitarisme au nom d'un idéal collectif suprême.
+- Parlement : Un parlement est une assemblée — généralement élue — qui assure la représentation du peuple dans les États ou les divisions administratives, et à ce titre est le « destin de la démocratie » selon Hans Kelsen.
